@@ -1,0 +1,9 @@
+district,digital_access,median_income_usd,poverty_rate,minority_population_pct,english_limited_pct,population_density
+District_1,1,72000,9.8,27.0,8.2,4200
+District_2,0,49000,18.5,45.0,19.4,2800
+District_3,1,81000,7.2,22.0,6.1,5100
+District_4,0,37000,28.3,60.0,24.7,1900
+District_5,1,55000,21.4,49.0,14.3,3600
+District_6,0,46000,22.7,55.0,20.8,2400
+District_7,0,30000,35.6,70.0,29.5,1500
+District_8,0,52000,17.9,43.0,16.1,3100
